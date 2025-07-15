@@ -59,6 +59,7 @@ And many more fascinating facts!
 
 Feel free to contribute by:
 - Adding more questions to `data.py`
+- One recommended source is from Open Trivia Database.
 - Improving the user interface
 - Adding new features like multiple choice questions
 - Enhancing the scoring system
